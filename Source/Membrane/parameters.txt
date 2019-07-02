@@ -1,0 +1,9 @@
+dataset0 5 5 0 0 1 1
+dataset1 5 5 10 0 1 1
+dataset2 5 5 20 0 1 1
+dataset3 10 10 0 0 1 1
+dataset4 10 10 10 0 1 1
+dataset5 10 10 20 0 1 1
+dataset6 20 20 0 0 1 1
+dataset7 20 20 10 0 1 1
+dataset8 20 20 20 0 1 1
